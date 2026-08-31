@@ -71,6 +71,8 @@
 ---
 
 ## 📂 プロジェクト構成
+
+```text
 MyPlanner/
 ├── src/
 │   └── main/
