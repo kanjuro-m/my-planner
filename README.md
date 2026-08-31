@@ -81,7 +81,7 @@
 ## 📷 画面イメージ
 
 ### 新規登録画面
-<img width="1919" height="986" alt="スクリーンショット 2026-08-31 221026" src="https://github.com/user-attachments/assets/f1ca0a4b-a077-4cd1-8e31-3328a8f9f859" />
+<img width="1919" height="985" alt="スクリーンショット 2026-08-31 234336" src="https://github.com/user-attachments/assets/e78f7cff-89e1-4042-a828-f65ffa173d87" />
 
 ### ログイン画面
 <img width="1919" height="986" alt="スクリーンショット 2026-08-31 233920" src="https://github.com/user-attachments/assets/f5d8dca5-aeb3-415d-8c09-891162da096d" />
