@@ -87,6 +87,7 @@ MyPlanner/
 │           ├── login.jsp     # ログイン画面
 │           └── register.jsp  # 新規アカウント作成画面
 └── README.md
+```
 
 ---
 
