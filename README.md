@@ -133,3 +133,28 @@ erDiagram
         text content
     }
 ```
+
+### 画面遷移図
+
+```mermaid
+graph TD
+    A[新規登録画面] -->|登録成功| B[ログイン画面]
+    B -->|ログイン成功| C[メイン画面]
+    
+    C -->|タブ切替| D[カレンダー表示]
+    C -->|タブ切替| E[TODOリスト表示]
+    C -->|タブ切替| F[日記表示]
+    C -->|ボタン押下| G[新規予定/TODO/日記追加モーダル]
+    C -->|トグル切り替え| H[ダークモード表示]
+    
+    C -->|ログアウト| B
+```
+
+### システム構成図
+
+```mermaid
+graph LR
+    Client[ブラウザ<br/>HTML/CSS/JavaScript] <-->|HTTPリクエスト / レスポンス| Server[Web・Appサーバー<br/>Apache Tomcat]
+    Server <-->|Java / JSP / Servlet| App logic[アプリケーションロジック]
+    App logic <-->|JDBC| DB[(データベース<br/>MySQL)]
+```
