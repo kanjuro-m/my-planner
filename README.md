@@ -84,7 +84,7 @@
 <img width="1919" height="986" alt="スクリーンショット 2026-08-31 221026" src="https://github.com/user-attachments/assets/f1ca0a4b-a077-4cd1-8e31-3328a8f9f859" />
 
 ### ログイン画面
-<img width="1919" height="987" alt="スクリーンショット 2026-08-31 221143" src="https://github.com/user-attachments/assets/323cea74-163e-4811-ba6c-8347c46a1a1e" />
+<img width="1919" height="986" alt="スクリーンショット 2026-08-31 233920" src="https://github.com/user-attachments/assets/f5d8dca5-aeb3-415d-8c09-891162da096d" />
 
 ### メイン画面
 <img width="1919" height="986" alt="スクリーンショット 2026-08-31 222928" src="https://github.com/user-attachments/assets/e46c5828-4791-4445-8c41-9f93fa2bf9a9" />
