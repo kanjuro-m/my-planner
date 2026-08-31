@@ -77,17 +77,25 @@
 
 ---
 
-## 画面イメージ
+## 📷 画面イメージ
+
+### 新規登録画面
 <img width="1919" height="986" alt="スクリーンショット 2026-08-31 221026" src="https://github.com/user-attachments/assets/f1ca0a4b-a077-4cd1-8e31-3328a8f9f859" />
 
+### ログイン画面
 <img width="1919" height="987" alt="スクリーンショット 2026-08-31 221143" src="https://github.com/user-attachments/assets/323cea74-163e-4811-ba6c-8347c46a1a1e" />
 
+### メイン画面
 <img width="1919" height="986" alt="スクリーンショット 2026-08-31 222928" src="https://github.com/user-attachments/assets/e46c5828-4791-4445-8c41-9f93fa2bf9a9" />
 
+### カレンダー
 <img width="1919" height="987" alt="スクリーンショット 2026-08-31 223025" src="https://github.com/user-attachments/assets/d85a6c4e-1c69-4f08-94cc-e501ef83c2df" />
 
+### TODOリスト
 <img width="1919" height="985" alt="スクリーンショット 2026-08-31 223106" src="https://github.com/user-attachments/assets/07f92106-9340-4cd0-9204-5109cd0b4ba9" />
 
+### 日記
 <img width="1918" height="986" alt="スクリーンショット 2026-08-31 223132" src="https://github.com/user-attachments/assets/8aa5e786-97cc-40f6-8c68-dc4ae1ee3029" />
 
+### ダークモード使用例
 <img width="1919" height="983" alt="スクリーンショット 2026-08-31 223158" src="https://github.com/user-attachments/assets/eaf14393-fa4b-438c-8385-9d2137a2cd3f" />
