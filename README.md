@@ -46,7 +46,7 @@
 | **バックエンド** | Java 17 / JSP & Servlet |
 | **データベース** | SQLite |
 | **Webサーバー** | Apache Tomcat 11 |
-| **ビルド/環境** | Eclipse / Git / GitHub |
+| **ビルド/環境** | Eclipse / GitHub |
 
 ---
 
