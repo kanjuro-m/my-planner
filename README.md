@@ -154,7 +154,8 @@ graph TD
 
 ```mermaid
 graph LR
-    Client[ブラウザ<br/>HTML/CSS/JavaScript] <-->|HTTPリクエスト / レスポンス| Server[Web・Appサーバー<br/>Apache Tomcat]
-    Server <-->|Java / JSP / Servlet| App logic[アプリケーションロジック]
-    App logic <-->|JDBC| DB[(データベース<br/>MySQL)]
+    Client[ブラウザ<br/>HTML / CSS / JS] -->|HTTPリクエスト| Server[Web・Appサーバー<br/>Apache Tomcat]
+    Server -->|レスポンス| Client
+    Server --- Logic[アプリロジック<br/>Java / JSP / Servlet]
+    Logic <-->|JDBC| DB[(データベース<br/>MySQL)]
 ```
