@@ -70,6 +70,24 @@
 
 ---
 
+## 📂 プロジェクト構成
+MyPlanner/
+├── src/
+│   └── main/
+│       ├── java/             # バックエンド処理（Java）
+│       │   ├── dao/          # データベース操作（DiaryDAO, ScheduleDAO, TodoDAO, UserDAO 等）
+│       │   ├── filter/       # 認証・アクセス制御（AuthFilter 等）
+│       │   ├── model/        # データ保持用モデル（Diary, Schedule, Todo, User 等）
+│       │   └── servlet/       # リクエスト制御（LoginServlet, RegisterServlet, DiaryServlet 等）
+│       └── webapp/           # フロントエンド処理・画面リソース（JSP）
+│           ├── WEB-INF/
+│           ├── index.jsp     # メイン画面（ダッシュボード）
+│           ├── login.jsp     # ログイン画面
+│           └── register.jsp  # 新規アカウント作成画面
+└── README.md
+
+---
+
 ## 🗄 データベース設計（ER構造）
 
 ### 1. `users` テーブル（ユーザー情報）
