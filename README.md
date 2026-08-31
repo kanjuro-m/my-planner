@@ -99,3 +99,37 @@
 
 ### ダークモード使用例
 <img width="1919" height="983" alt="スクリーンショット 2026-08-31 223158" src="https://github.com/user-attachments/assets/eaf14393-fa4b-438c-8385-9d2137a2cd3f" />
+
+### ER図
+
+```mermaid
+erDiagram
+    users ||--o{ schedules : "1対多"
+    users ||--o{ todos     : "1対多"
+    users ||--o{ diaries   : "1対多"
+
+    users {
+        int id PK
+        string username
+        string password
+    }
+    schedules {
+        int id PK
+        int user_id FK
+        date date
+        string title
+    }
+    todos {
+        int id PK
+        int user_id FK
+        string title
+        boolean is_completed
+    }
+    diaries {
+        int id PK
+        int user_id FK
+        date date
+        string title
+        text content
+    }
+```
