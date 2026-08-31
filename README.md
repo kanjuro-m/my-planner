@@ -103,7 +103,7 @@
 
 ---
 
-### 📊 ER図
+## 📊 ER図
 
 ```mermaid
 erDiagram
@@ -139,7 +139,7 @@ erDiagram
 
 ---
 
-### 🔄 画面遷移図
+## 🔄 画面遷移図
 
 ```mermaid
 graph TD
@@ -157,7 +157,7 @@ graph TD
 
 ---
 
-### 🏗 システム構成図
+## 🏗 システム構成図
 
 ```mermaid
 graph LR
