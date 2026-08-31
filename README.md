@@ -101,6 +101,8 @@
 ### ダークモード使用例
 <img width="1919" height="983" alt="スクリーンショット 2026-08-31 223158" src="https://github.com/user-attachments/assets/eaf14393-fa4b-438c-8385-9d2137a2cd3f" />
 
+---
+
 ### 📊 ER図
 
 ```mermaid
@@ -135,6 +137,8 @@ erDiagram
     }
 ```
 
+---
+
 ### 🔄 画面遷移図
 
 ```mermaid
@@ -150,6 +154,8 @@ graph TD
     
     C -->|ログアウト| B
 ```
+
+---
 
 ### 🏗 システム構成図
 
