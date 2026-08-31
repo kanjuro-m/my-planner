@@ -44,8 +44,8 @@
 | :--- | :--- |
 | **フロントエンド** | HTML5, CSS3, JavaScript (Vanilla JS) |
 | **バックエンド** | Java 17 / JSP & Servlet |
-| **データベース** | MySQL (または使用しているDB名) |
-| **Webサーバー** | Apache Tomcat 10 |
+| **データベース** | SQLite |
+| **Webサーバー** | Apache Tomcat 11 |
 | **ビルド/環境** | Eclipse / Git / GitHub |
 
 ---
