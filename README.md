@@ -80,7 +80,7 @@ MyPlanner/
 │       │   ├── dao/          # データベース操作（DiaryDAO, ScheduleDAO, TodoDAO, UserDAO 等）
 │       │   ├── filter/       # 認証・アクセス制御（AuthFilter 等）
 │       │   ├── model/        # データ保持用モデル（Diary, Schedule, Todo, User 等）
-│       │   └── servlet/       # リクエスト制御（LoginServlet, RegisterServlet, DiaryServlet 等）
+│       │   └── servlet/      # リクエスト制御（LoginServlet, RegisterServlet, DiaryServlet 等）
 │       └── webapp/           # フロントエンド処理・画面リソース（JSP）
 │           ├── WEB-INF/
 │           ├── index.jsp     # メイン画面（ダッシュボード）
