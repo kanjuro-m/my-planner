@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>新規登録 - JOURNEY HUB</title>
+    <title>新規登録 - MY PLANNER</title>
     <script>
         if (localStorage.getItem('theme') === 'dark') {
             document.documentElement.setAttribute('data-theme', 'dark');
@@ -62,7 +62,15 @@
             font-weight: 800;
             letter-spacing: 0.05em;
             text-align: center;
+            margin-bottom: 6px;
+        }
+
+        .page-subtitle {
+            font-size: 0.85rem;
+            color: var(--text-sub);
+            text-align: center;
             margin-bottom: 24px;
+            font-weight: 600;
         }
 
         .form-group {
@@ -133,7 +141,8 @@
 <body>
 
     <div class="card">
-        <div class="brand-logo">新規アカウント作成</div>
+        <div class="brand-logo">MY PLANNER</div>
+        <div class="page-subtitle">新規アカウント作成</div>
 
         <%
             String error = (String) request.getAttribute("error");

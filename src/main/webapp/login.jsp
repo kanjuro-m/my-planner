@@ -12,7 +12,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ログイン - JOURNEY HUB</title>
+    <title>ログイン - MY PLANNER</title>
     <script>
         if (localStorage.getItem('theme') === 'dark') {
             document.documentElement.setAttribute('data-theme', 'dark');
@@ -166,7 +166,7 @@
     </div>
 
     <div class="login-card">
-        <div class="brand-logo">JOURNEY HUB</div>
+        <div class="brand-logo">MY PLANNER</div>
 
         <%
             String error = (String) request.getAttribute("error");
